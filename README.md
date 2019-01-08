@@ -9,3 +9,7 @@ Linters
 <ul>
   <li>https://stylelint.io/</li>
  </ul>
+CSS Compatible whit all browsers
+<ul>
+  <li>https://github.com/stylecow/stylecow</li>
+ </ul>
