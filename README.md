@@ -17,19 +17,19 @@ CSS Compatible whit all browsers
  </ul>
 
 CSS <br>
-Preprocessors:
+-Preprocessors:
 SASS
 <br>
-Frameworks:
+-Frameworks:
 Bootstrap
 <br>
-Toolkits:
+-Toolkits:
 Bourbon
 <br>
-CSS Structure:
+-CSS Structure:
 RSCSS
 <br>
-Reset and Normalize:
+-Reset and Normalize:
 Normalize
 
 PARA DEPURAR
