@@ -40,3 +40,8 @@ PARA DEPURAR
 - Mantenga el alcance limitado a lo que está 
 diseñando - Evite la eliminación innecesaria de estilos 
 - Muchos comentarios para explicar lo que está pasando a otros desarrolladores
+
+.o- // Objetos 
+.c- // Componentes 
+.u- // Utilidades 
+.t- // Theming
