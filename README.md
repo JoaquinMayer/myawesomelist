@@ -41,3 +41,12 @@ diseñando - Evite la eliminación innecesaria de estilos
 - https://developer.chrome.com/devtools/docs/css-preprocessors#toc-how-css-source-maps-work
 - https://cssstats.com/
 - https://josh.github.io/css-explain/
+
+#Arquitectura de carpetas
+core/client/assets/sass
+|-- screen.scss
+|-- vendor/
+|-- modules/
+|-- patterns/
+|-- components/
+|-- layouts/
