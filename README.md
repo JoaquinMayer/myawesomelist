@@ -33,7 +33,7 @@ Reset and Normalize:
 Normalize
 
 PARA DEPURAR
-Estrictamente no hay ID en CSS 
+- Estrictamente no hay ID en CSS 
 - Evite los anidamientos innecesarios 
 - Mantenga la especificidad lo más baja posible 
 - No hay números mágicos, todas las unidades deben derivarse de las unidades GEL 
