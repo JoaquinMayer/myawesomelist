@@ -42,7 +42,8 @@ diseñando - Evite la eliminación innecesaria de estilos
 - https://cssstats.com/
 - https://josh.github.io/css-explain/
 
-#Arquitectura de carpetas
+# Arquitectura de carpetas
+
 core/client/assets/sass
 |-- screen.scss
 |-- vendor/
