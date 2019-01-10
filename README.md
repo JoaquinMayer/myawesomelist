@@ -17,20 +17,11 @@ CSS Compatible whit all browsers
  </ul>
 
 CSS <br>
-- Preprocessors:
-SASS
-<br>
-- Frameworks:
-Bootstrap
-<br>
-- Toolkits:
-Bourbon
-<br>
-- CSS Structure:
-RSCSS
-<br>
-- Reset and Normalize:
-Normalize
+- Preprocessors: SASS
+- Frameworks: Bootstrap
+- Toolkits: Bourbon
+- CSS Structure: RSCSS
+- Reset and Normalize: Normalize
 
 PARA DEPURAR
 - Estrictamente no hay ID en CSS 
@@ -45,3 +36,5 @@ diseñando - Evite la eliminación innecesaria de estilos
 .c- // Componentes 
 .u- // Utilidades 
 .t- // Theming
+
+https://github.com/postcss/autoprefixer
