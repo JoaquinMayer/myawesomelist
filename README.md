@@ -32,9 +32,10 @@ PARA DEPURAR
 diseñando - Evite la eliminación innecesaria de estilos 
 - Muchos comentarios para explicar lo que está pasando a otros desarrolladores
 
-.o- // Objetos 
-.c- // Componentes 
-.u- // Utilidades 
-.t- // Theming
+- .o- // Objetos 
+- .c- // Componentes 
+- .u- // Utilidades 
+- .t- // Theming
 
-https://github.com/postcss/autoprefixer
+- https://github.com/postcss/autoprefixer
+- https://developer.chrome.com/devtools/docs/css-preprocessors#toc-how-css-source-maps-work
